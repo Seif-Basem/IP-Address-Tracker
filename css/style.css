@@ -107,7 +107,7 @@ section h1{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    width: 70%;
+    width: 67%;
     box-shadow: 0px 12px 20px 0px #00000040;
 }
 @media (max-width: 991px) {
