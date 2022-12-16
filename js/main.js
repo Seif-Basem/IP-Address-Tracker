@@ -43,7 +43,7 @@ function getData() {
 var map = L.map('map').setView([0, 0], 2);
 //the img of the location marker
 let iconLocation = L.icon({
-    iconUrl: '../images/icon-location.svg',
+    iconUrl: 'images/icon-location.svg',
     iconSize:     [25, 32], // size of the icon
     iconAnchor:   [25, 16], // point of the icon which will correspond to marker's location
 });
